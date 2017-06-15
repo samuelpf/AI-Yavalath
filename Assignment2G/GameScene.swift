@@ -2,8 +2,8 @@
 //  GameScene.swift
 //  Assignment2G
 //
-//  Created by Oscar Samuel Pineda on 18/11/2016.
-//  Student Number: 16200602
+//  Created by Samuel Pineda on 18/11/2016.
+//  Copyright © 2016 Samuel Pineda. All rights reserved.
 //
 
 import SpriteKit
