@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7E36794E1EF2E87D0034F81F /* gui-example-1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7E36794D1EF2E87D0034F81F /* gui-example-1.jpg */; };
+		7E3679501EF2E8820034F81F /* gui-example-2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7E36794F1EF2E8820034F81F /* gui-example-2.jpg */; };
 		7E64F24B1DE06B21007D83C8 /* oval-blue.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E64F2491DE06B21007D83C8 /* oval-blue.png */; };
 		7E64F24C1DE06B21007D83C8 /* board.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E64F24A1DE06B21007D83C8 /* board.png */; };
 		7E64F24E1DE07A10007D83C8 /* oval-red.png in Resources */ = {isa = PBXBuildFile; fileRef = 7E64F24D1DE07A10007D83C8 /* oval-red.png */; };
@@ -21,6 +23,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7E36794D1EF2E87D0034F81F /* gui-example-1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "gui-example-1.jpg"; sourceTree = "<group>"; };
+		7E36794F1EF2E8820034F81F /* gui-example-2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "gui-example-2.jpg"; sourceTree = "<group>"; };
 		7E64F2491DE06B21007D83C8 /* oval-blue.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "oval-blue.png"; sourceTree = "<group>"; };
 		7E64F24A1DE06B21007D83C8 /* board.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = board.png; sourceTree = "<group>"; };
 		7E64F24D1DE07A10007D83C8 /* oval-red.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "oval-red.png"; sourceTree = "<group>"; };
@@ -76,6 +80,8 @@
 				7E64F24A1DE06B21007D83C8 /* board.png */,
 				7E64F2491DE06B21007D83C8 /* oval-blue.png */,
 				7E64F24D1DE07A10007D83C8 /* oval-red.png */,
+				7E36794D1EF2E87D0034F81F /* gui-example-1.jpg */,
+				7E36794F1EF2E8820034F81F /* gui-example-2.jpg */,
 				7E6673301DDE80EE002400B2 /* LaunchScreen.storyboard */,
 				7E6673331DDE80EE002400B2 /* Info.plist */,
 			);
@@ -144,8 +150,10 @@
 			files = (
 				7E64F24C1DE06B21007D83C8 /* board.png in Resources */,
 				7E64F24E1DE07A10007D83C8 /* oval-red.png in Resources */,
+				7E36794E1EF2E87D0034F81F /* gui-example-1.jpg in Resources */,
 				7E66732D1DDE80EE002400B2 /* Main.storyboard in Resources */,
 				7E64F24B1DE06B21007D83C8 /* oval-blue.png in Resources */,
+				7E3679501EF2E8820034F81F /* gui-example-2.jpg in Resources */,
 				7E6673241DDE80EE002400B2 /* GameScene.sks in Resources */,
 				7E66732F1DDE80EE002400B2 /* Assets.xcassets in Resources */,
 				7E6673321DDE80EE002400B2 /* LaunchScreen.storyboard in Resources */,
