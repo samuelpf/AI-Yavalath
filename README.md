@@ -8,4 +8,5 @@ The following screenshots show the state of the board after five turns have been
 ![GUI sample 1](https://github.com/samuelpf/AI-Yavalath/blob/master/Assignment2G/gui-example-1.jpg)
 ![GUI sample 2](https://github.com/samuelpf/AI-Yavalath/blob/master/Assignment2G/gui-example-2.jpg)
 
+The main logic of the game is in the file GameScene.swift.
 To run the project XCode 8 or greatest is needed.
