@@ -10,4 +10,4 @@ The following screenshots show the state of the board after five turns have been
 
 The main logic of the game is in the file GameScene.swift.
 
-To run the project XCode 8 or greatest is needed.
+To run the project XCode 8 or greater is needed.
